@@ -1,4 +1,4 @@
-#Asynchronous in JavaScript
+# Asynchronous in JavaScript
 
 [The Rick and Morty API][0]
 [0]: http://https://rickandmortyapi.com "API Rick and Morty "
